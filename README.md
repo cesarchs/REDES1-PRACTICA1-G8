@@ -6,7 +6,7 @@
 ###  Julio Enrique Wu Chiu - 201906180
 ### Marcos Enrique Curtidor Sagui - 201900874
 ---
-
+---
 ## **CONFIGURACION DE LA VPCS**
 
 | PASOS| DESCRIPCION| 
@@ -32,7 +32,8 @@ Se repitio estos pasos cada integrantes de grupo, donde cambia seria la configur
     # Compañero 4
         ip 192.168.18.40 255.255.255.0 192.168.18.1
 ```
-
+---
+---
 ## **CONFIGURACION DE LA VPN**
 | PASOS| DESCRIPCION| 
 |-------------|------------------------|
@@ -64,7 +65,8 @@ Se repitio estos pasos cada integrantes de grupo, donde cambia seria la configur
 
 * ## COMPAÑERO 4 -- 201780044
 
-
+---
+---
 ## **CONFIGURACION DE LAS NUBES**
 
 | PASOS| DESCRIPCION| 
@@ -88,7 +90,8 @@ Se repitio estos pasos cada integrantes de grupo, donde cambia seria la configur
 
 * ## COMPAÑERO 4 -- 201780044
 
-
+---
+---
 ## **PINGS ENTRE LOS HOST**
 | PASOS| DESCRIPCION| 
 |-------------|------------------------|

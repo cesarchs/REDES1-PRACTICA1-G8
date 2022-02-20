@@ -58,14 +58,13 @@ Se repitio estos pasos cada integrantes de grupo, donde cambia seria la configur
 
 * ## COORDINADOR -- 201700634
 ![nubes compañero 1](https://github.com/cesarchs/REDES1-PRACTICA1-G8/blob/main/img/vpn_201700634.jpeg)
+
 * ## COMPAÑERO 2 -- 201900874
+![nubes compañero 2](https://github.com/cesarchs/REDES1-PRACTICA1-G8/blob/main/img/VPN_201900874.png)
 
 * ## COMPAÑERO 3 -- 201906180
 ![nubes compañero 3](https://github.com/cesarchs/REDES1-PRACTICA1-G8/blob/main/img/VPN_201906180.JPG)
 
-* ## COMPAÑERO 4 -- 201780044
----
----
 ## **CONFIGURACION DE LAS NUBES**
 
 | PASOS| DESCRIPCION| 
@@ -81,14 +80,16 @@ Se repitio estos pasos cada integrantes de grupo, donde cambia seria la configur
 
 
 * ## COORDINADOR -- 201700634
+![nubes compañero 1](https://github.com/cesarchs/REDES1-PRACTICA1-G8/blob/main/img/red_201700634.jpeg)
 
 * ## COMPAÑERO 2 -- 201900874
+![nubes compañero 2](https://github.com/cesarchs/REDES1-PRACTICA1-G8/blob/main/img/red_201900874.png)
 
 * ## COMPAÑERO 3 -- 201906180
 ![nubes compañero 3](https://github.com/cesarchs/REDES1-PRACTICA1-G8/blob/main/img/Red_201906180.JPG)
 
 * ## COMPAÑERO 4 -- 201780044
-
+![nubes compañero 4](https://github.com/cesarchs/REDES1-PRACTICA1-G8/blob/main/img/red_201780044.jpeg)
 ---
 ---
 ## **PINGS ENTRE LOS HOST**
@@ -121,10 +122,13 @@ El ping se hace para cada integrante de grupo menos con el ip de que hace el pin
 Si aparece el time es porque si se envio el paquete y aparece el timeout es porque no se envio el paquete
 
 * ## COORDINADOR -- 201700634
+![ping compañero 1](https://github.com/cesarchs/REDES1-PRACTICA1-G8/blob/main/img/ping_201700634.jpeg)
 
 * ## COMPAÑERO 2 -- 201900874
+![ping compañero 2](https://github.com/cesarchs/REDES1-PRACTICA1-G8/blob/main/img/ping_201900874.png)
 
 * ## COMPAÑERO 3 -- 201906180
 ![ping compañero 3](https://github.com/cesarchs/REDES1-PRACTICA1-G8/blob/main/img/Ping_201906180.JPG)
 
 * ## COMPAÑERO 4 -- 201780044
+![ping compañero 4](https://github.com/cesarchs/REDES1-PRACTICA1-G8/blob/main/img/ping_201780044.jpeg)

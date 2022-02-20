@@ -57,14 +57,13 @@ Se repitio estos pasos cada integrantes de grupo, donde cambia seria la configur
 ---
 
 * ## COORDINADOR -- 201700634
-
+![nubes compañero 1](https://github.com/cesarchs/REDES1-PRACTICA1-G8/blob/main/img/VPN_201700634.JPG)
 * ## COMPAÑERO 2 -- 201900874
 
 * ## COMPAÑERO 3 -- 201906180
 ![nubes compañero 3](https://github.com/cesarchs/REDES1-PRACTICA1-G8/blob/main/img/VPN_201906180.JPG)
 
 * ## COMPAÑERO 4 -- 201780044
-
 ---
 ---
 ## **CONFIGURACION DE LAS NUBES**
